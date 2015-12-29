@@ -7,7 +7,7 @@ exports.config = {
     capabilities: {
         platformName: 'ios',
         platformVersion: '8.4',
-        deviceName: 'iPhone 4s',
+        deviceName: 'iPhone 4',
         browserName: "",
         autoWebview: true,
         //CHANGE THIS TO YOUR ABSOLUTE PATH
